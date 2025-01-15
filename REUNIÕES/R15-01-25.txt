@@ -1,0 +1,11 @@
+REUNIÃO DIA 15/01/2024
+
+------------------------------------------------
+Discutido Volta da transformação única.
+
+Mudança de visão isométrica na transformação.
+
+Itens se mantém.
+
+Possível mudança de engine para unity (não confirmado).
+
